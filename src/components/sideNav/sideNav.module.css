@@ -12,10 +12,13 @@
     .assignees:hover{
         color: white;
     }
-    .shops:hover{
+    .wallet:hover{
         color: white;
     }
     .history:hover{
+        color: white;
+    }
+    .todo:hover{
         color: white;
     }
 }

@@ -1,7 +1,7 @@
-import TopMost from '@/components/topMost'
-import Nav from '@/components/nav'
-import Search from '@/components/search'
-import SideNav from '@/components/sideNav'
+import TopMost from '../../components/topMost'
+import Nav from '../../components/nav'
+import Search from '../../components/search'
+import SideNav from '../../components/sideNav'
 
 
 import styles from '../page.module.css'
